@@ -1,3 +1,4 @@
+![logo](https://github.com/suhana832/suhana832/blob/main/Blue%20Simple%20LinkedIn%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Suhana</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="code with suhana" width="400"src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
