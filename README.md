@@ -1,4 +1,4 @@
-![logo](https://github.com/suhana832/suhana832/blob/main/Blue%20Simple%20LinkedIn%20Banner.jpg)
+![logo](https://github.com/suhana832/suhana832/blob/main/Banner-2026.png)
 
 <h1 align="center">Hi 👋, I'm Suhana Attar</h1>
 <h3 align="center">Computer Science Graduate | Frontend Developer | AI/ML Enthusiast</h3>
